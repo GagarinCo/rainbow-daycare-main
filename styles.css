@@ -1254,6 +1254,19 @@ section p {
     height: 200px;
   }
 
+  .faq {
+    padding: 60px 0;
+  }
+  
+  .faq-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .faq-item {
+    padding: 25px;
+  }
+
   .contact {
     padding: 60px 0;
   }
