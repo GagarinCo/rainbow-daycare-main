@@ -83,6 +83,14 @@ const galleryImages = [
     {
         src: 'images/cubbies.jpg',
         alt: 'Personal cubbies for each child'
+    },
+    {
+        src: 'images/playground1.jpg',
+        alt: 'Outdoor playground for active play'
+    },
+    {
+        src: 'images/playground2.jpg',
+        alt: 'Spacious playground with swings'
     }
 ];
 
